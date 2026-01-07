@@ -70,7 +70,6 @@ Try these different types of queries:
 ## Project Structure
 
 ```
-langchain-tool/
 ├── main.py                 # Main entry point and demo
 ├── src/
 │   ├── core/
